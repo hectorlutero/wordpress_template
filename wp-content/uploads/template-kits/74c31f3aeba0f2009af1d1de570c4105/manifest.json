@@ -1,0 +1,1821 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Mechamax - Car Repair & Auto Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Offcanvas",
+            "screenshot": "screenshots\/header-offcanvas.jpg",
+            "source": "templates\/header-offcanvas.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/header-offcanvas\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/askproject.net\/mechamax\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.5.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.7.2.1",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        },
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "1.5.9.5",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/logo_Asset-4-800x218.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/header-offcanvas.json",
+                    "name": "Header Offcanvas"
+                }
+            ],
+            "filesize": 124020,
+            "dimensions": [
+                4512,
+                1229
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cropped-image-of-auto-mechanic-inflating-tire-and-Q3CE7BN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/cropped-image-of-auto-mechanic-inflating-tire-and-Q3CE7BN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header-offcanvas.json",
+                    "name": "Header Offcanvas"
+                }
+            ],
+            "filesize": 190035,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q3CE7BN"
+        },
+        {
+            "filename": "cropped-shot-of-auto-mechanic-holding-multimeter-v-7MDMEL6.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/cropped-shot-of-auto-mechanic-holding-multimeter-v-7MDMEL6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header-offcanvas.json",
+                    "name": "Header Offcanvas"
+                }
+            ],
+            "filesize": 151970,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7MDMEL6"
+        },
+        {
+            "filename": "mechanic-car-service-garage-center-repairman-work-3GSCKFW.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/mechanic-car-service-garage-center-repairman-work-3GSCKFW-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header-offcanvas.json",
+                    "name": "Header Offcanvas"
+                }
+            ],
+            "filesize": 129906,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3GSCKFW"
+        },
+        {
+            "filename": "mechanic-checks-air-conditioning-system-in-car-ZR74YEA.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/mechanic-checks-air-conditioning-system-in-car-ZR74YEA-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header-offcanvas.json",
+                    "name": "Header Offcanvas"
+                }
+            ],
+            "filesize": 169821,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZR74YEA"
+        },
+        {
+            "filename": "mechanic-car-service-worker-man-technician-are-mai-F7SQ237.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/mechanic-car-service-worker-man-technician-are-mai-F7SQ237-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header-offcanvas.json",
+                    "name": "Header Offcanvas"
+                }
+            ],
+            "filesize": 124153,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F7SQ237"
+        },
+        {
+            "filename": "cropped-shot-of-auto-mechanic-checking-automobile-PR973E2.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/cropped-shot-of-auto-mechanic-checking-automobile-PR973E2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header-offcanvas.json",
+                    "name": "Header Offcanvas"
+                }
+            ],
+            "filesize": 175493,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PR973E2"
+        },
+        {
+            "filename": "logo_Asset-8_white.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/logo_Asset-8_white-800x218.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 84655,
+            "dimensions": [
+                3384,
+                922
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "car-mechanics-working-and-maintaining-car-X26M5C3-min.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanics-working-and-maintaining-car-X26M5C3-min-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 237401,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X26M5C3"
+        },
+        {
+            "filename": "car-mechanic-leaving-painting-chamber-after-work-VQHH3WN-min.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-leaving-painting-chamber-after-work-VQHH3WN-min-800x532.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 173755,
+            "dimensions": [
+                2400,
+                1597
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VQHH3WN"
+        },
+        {
+            "filename": "car-mechanic-keeping-tools-polished-B5ZWHYG-min.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-keeping-tools-polished-B5ZWHYG-min-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 281439,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B5ZWHYG"
+        },
+        {
+            "filename": "overlay_5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/overlay_5-800x640.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 211237,
+            "dimensions": [
+                2500,
+                2000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 41599,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 42623,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 52644,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon4-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44004,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon5-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 86789,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon6-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 41614,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "car-mechanic-upkeeping-car-XEQ37C3-min.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-upkeeping-car-XEQ37C3-min-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 221756,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XEQ37C3"
+        },
+        {
+            "filename": "icon1_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon1_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 19116,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon4_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon4_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 20385,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon5_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon5_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 39286,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon3_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/icon3_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 24658,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cropped-shot-of-auto-mechanic-checking-automobile-PR973E2-1.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/cropped-shot-of-auto-mechanic-checking-automobile-PR973E2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 100360,
+            "dimensions": [
+                800,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PR973E2"
+        },
+        {
+            "filename": "muscle-car-under-the-hood-PVB6JTW.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/muscle-car-under-the-hood-PVB6JTW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 131262,
+            "dimensions": [
+                800,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PVB6JTW"
+        },
+        {
+            "filename": "car-mechanic-keeping-tools-polished-VETYUZW-min.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-keeping-tools-polished-VETYUZW-min-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 211888,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VETYUZW"
+        },
+        {
+            "filename": "01.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/01-800x487.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 11478,
+            "dimensions": [
+                1001,
+                609
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "car-mechanic-working-at-service-center-H3KN768.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-working-at-service-center-H3KN768-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 121979,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H3KN768"
+        },
+        {
+            "filename": "02.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/02-800x487.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 14252,
+            "dimensions": [
+                1001,
+                609
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "car-mechanic-working-at-service-center-9KN5VXS.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-working-at-service-center-9KN5VXS-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 127017,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9KN5VXS"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/03-800x487.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 15175,
+            "dimensions": [
+                1001,
+                609
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "car-mechanic-fixing-a-car-637BVRZ-min.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-fixing-a-car-637BVRZ-min-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 110609,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-637BVRZ"
+        },
+        {
+            "filename": "male-portrait-Q8YYKPA.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/male-portrait-Q8YYKPA.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 35728,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8YYKPA"
+        },
+        {
+            "filename": "portrait-4847GSQ.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/portrait-4847GSQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 46366,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4847GSQ"
+        },
+        {
+            "filename": "portrait-of-confidence-RBKH6H7.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/portrait-of-confidence-RBKH6H7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 46160,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RBKH6H7"
+        },
+        {
+            "filename": "portrait-2Y2BRY2.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/portrait-2Y2BRY2.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 37485,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2Y2BRY2"
+        },
+        {
+            "filename": "client_1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/client_1-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 41229,
+            "dimensions": [
+                1500,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/client_5-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 32295,
+            "dimensions": [
+                1500,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/client_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 24760,
+            "dimensions": [
+                1500,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/client_6-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 32451,
+            "dimensions": [
+                1500,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/client_3-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 27723,
+            "dimensions": [
+                1500,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_7.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/client_7-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 16871,
+            "dimensions": [
+                1500,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/client_4-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 29235,
+            "dimensions": [
+                1500,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_8.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/client_8-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 28961,
+            "dimensions": [
+                1500,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "car-mechanics-working-and-maintaining-car-9ZXDHZ3.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanics-working-and-maintaining-car-9ZXDHZ3-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 206567,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9ZXDHZ3"
+        },
+        {
+            "filename": "kevin-bhagat-kCNEqCb8_bM-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/kevin-bhagat-kCNEqCb8_bM-unsplash-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 215388,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/kCNEqCb8_bM"
+        },
+        {
+            "filename": "overlay-2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/overlay-2-800x640.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 24254,
+            "dimensions": [
+                2500,
+                2000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "car-mechanic-working-at-automotive-service-center-NDJHRTB.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-working-at-automotive-service-center-NDJHRTB-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 123332,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NDJHRTB"
+        },
+        {
+            "filename": "portrait-of-a-man-mechanic-in-a-garage-PAFLUPJ.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/portrait-of-a-man-mechanic-in-a-garage-PAFLUPJ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 178976,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAFLUPJ"
+        },
+        {
+            "filename": "auto-mechanic-portrait-5AUMJ8Z.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/auto-mechanic-portrait-5AUMJ8Z-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 148716,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5AUMJ8Z"
+        },
+        {
+            "filename": "hands-of-car-mechanic-with-wrench-in-garage-C2XL2HG.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/hands-of-car-mechanic-with-wrench-in-garage-C2XL2HG-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 107909,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C2XL2HG"
+        },
+        {
+            "filename": "auto-mechanic-with-multimeter-voltmeter-checking-c-7MTRPJF.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/auto-mechanic-with-multimeter-voltmeter-checking-c-7MTRPJF-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 169044,
+            "dimensions": [
+                1800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7MTRPJF"
+        },
+        {
+            "filename": "mechanics-working-in-car-service-2BUJ82QF.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/mechanics-working-in-car-service-2BUJ82QF-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 187673,
+            "dimensions": [
+                1800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUJ82QF"
+        },
+        {
+            "filename": "side-view-of-auto-mechanic-with-tablet-checking-ca-CJFYZUR.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/side-view-of-auto-mechanic-with-tablet-checking-ca-CJFYZUR-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 135538,
+            "dimensions": [
+                1800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CJFYZUR"
+        },
+        {
+            "filename": "cropped-shot-of-auto-mechanic-with-multimeter-volt-75JAMKL.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/cropped-shot-of-auto-mechanic-with-multimeter-volt-75JAMKL-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 97754,
+            "dimensions": [
+                1800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-75JAMKL"
+        },
+        {
+            "filename": "car-mechanics-fixing-car-3N6SYNA.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanics-fixing-car-3N6SYNA-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 199703,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3N6SYNA"
+        },
+        {
+            "filename": "overlay-22.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/overlay-22-800x576.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 121656,
+            "dimensions": [
+                2500,
+                1800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "cropped-shot-of-auto-mechanic-with-multimeter-volts-75JAMKL.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/cropped-shot-of-auto-mechanic-with-multimeter-volts-75JAMKL-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 191993,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-75JAMKL"
+        },
+        {
+            "filename": "car-mechanics-fixing-car-9DJFHR6.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanics-fixing-car-9DJFHR6-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 185718,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9DJFHR6"
+        },
+        {
+            "filename": "car-mechanic-in-a-workshop-changing-tire-NQ9N4BV.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanic-in-a-workshop-changing-tire-NQ9N4BV-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 105952,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NQ9N4BV"
+        },
+        {
+            "filename": "male-mechanic-with-checklist-car-service-Z7KACVK.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/male-mechanic-with-checklist-car-service-Z7KACVK-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 113616,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z7KACVK"
+        },
+        {
+            "filename": "female-mechanic-with-wrenches-posing-in-autoservic-ZJF9UQT.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/female-mechanic-with-wrenches-posing-in-autoservic-ZJF9UQT-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 116034,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZJF9UQT"
+        },
+        {
+            "filename": "mechanic-posing-at-modern-factory-78E3PJB.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/mechanic-posing-at-modern-factory-78E3PJB-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 179302,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-78E3PJB"
+        },
+        {
+            "filename": "car-mechanics-working-and-maintaining-car-BC3YPHG.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanics-working-and-maintaining-car-BC3YPHG-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 201266,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BC3YPHG"
+        },
+        {
+            "filename": "car-mechanics-working-and-maintaining-car-QH66T95.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanics-working-and-maintaining-car-QH66T95-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 178788,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QH66T95"
+        },
+        {
+            "filename": "car-mechanics-fixing-car-9JEA4WD-min.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/car-mechanics-fixing-car-9JEA4WD-min-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 193492,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9JEA4WD"
+        },
+        {
+            "filename": "kevin-bhagat-3cLpiv8h5so-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/kevin-bhagat-3cLpiv8h5so-unsplash-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 264095,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/3cLpiv8h5so"
+        },
+        {
+            "filename": "kevin-bhagat-8UYowls-tMM-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/kevin-bhagat-8UYowls-tMM-unsplash-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 201676,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/8UYowls-tMM"
+        },
+        {
+            "filename": "jeff-smith-Wg-2kBVND3c-unsplash.jpeg",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/jeff-smith-Wg-2kBVND3c-unsplash-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 142665,
+            "dimensions": [
+                2020,
+                1347
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Wg-2kBVND3c"
+        },
+        {
+            "filename": "404_Asset-9-1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/mechamax\/wp-content\/uploads\/sites\/55\/2022\/02\/404_Asset-9-1-800x350.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 280100,
+            "dimensions": [
+                2240,
+                981
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
